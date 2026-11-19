@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens",
+  "description": "Multimodal digital forensics workbench for explainable media signals, cross-modal contradiction graphs, tamper-evident custody ledgers, and multilingual voice investigation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
